@@ -1,3 +1,5 @@
+### 🎬 [Access the Full 26-Video Supplementary Simulation Suite Here](https://github.com/ashilsp/oloid-symmetric-universe/releases/tag/v1.0.0)
+
 # Replacing the Big Bang Singularity with the OCM-Bounce: An Oloid-Symmetric Bridge Resolution to the Hubble Tension and Axis of Evil
 
 Official open-source code and data replication repository for the **Original Cosmological Manifold (OCM)** framework.
